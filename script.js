@@ -28,7 +28,7 @@ function multiply () {
   for (counter = 0; counter < one; counter++) {
     answer = answer + two
   }
-  
+
   if (negative) {
     answer = 0 - answer
   }
